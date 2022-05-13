@@ -10,7 +10,7 @@ In cars, a wiper control system replaces the standard wiper blade with an electr
 
 ## **COMPONENTS**
 * STM32F407VG MICROCONTROLLER BOARD
-* 
+
 ## **STM32F407VG**
 * The STM32F405xx and STM32F407xx family depends on the superior execution Arm® Cortex®-M4 32-digit RISC center working at a recurrence of up to 168 MHz. The Cortex-M4 center highlights a Floating point unit (FPU) single accuracy which upholds all Arm single-accuracy information handling directions and information types. It likewise executes a full arrangement of DSP directions and a memory insurance unit (MPU) which upgrades application security. The STM32F405xx and STM32F407xx family integrates fast installed.
 
