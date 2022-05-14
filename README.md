@@ -9,3 +9,5 @@
 ![Code Grade](https://api.codiga.io/project/33458/status/svg)
 
 [![CI](https://github.com/PotlaSiva/M3_Wiper_Control_System/actions/workflows/CI.yml/badge.svg)](https://github.com/PotlaSiva/M3_Wiper_Control_System/actions/workflows/CI.yml)
+
+[![Linux](https://github.com/PotlaSiva/M3_Wiper_Control_System/actions/workflows/Linux.yml/badge.svg)](https://github.com/PotlaSiva/M3_Wiper_Control_System/actions/workflows/Linux.yml)
